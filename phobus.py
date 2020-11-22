@@ -13,7 +13,7 @@ import socket
 
 parser = argparse.ArgumentParser(
 		epilog="coded by DearFuture",
-		prog="python phobus.py"
+		prog="python3 phobus.py"
 	                            )
 
 parser.add_argument("url", type=str, help="The url to parse")
