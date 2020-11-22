@@ -1,5 +1,5 @@
 # **Phobus**
-Python program for parsing html href's by url
+Python program for parsing HTML href's by url
 
 ## **Installation**
 git clone https://github.com/DearFuture1/phobus
