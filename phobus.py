@@ -1,10 +1,20 @@
+'''
+Phobus HTML Parsing
+Coded by: DearFuture
+Version: 0.1
+Github: https://github.com/DearFuture1
+'''
+
 import argparse
 import urllib.request
 import re
 import sys
 import socket
 
-parser = argparse.ArgumentParser()
+parser = argparse.ArgumentParser(
+		epilog="coded by DearFuture",
+		prog="python phobus.py"
+	                            )
 
 parser.add_argument("url", type=str, help="The url to parse")
 parser.add_argument("-a", "--all", action="store_true", help="Disables all filters and shows all results")
