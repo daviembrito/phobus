@@ -58,7 +58,7 @@ Saves the output into a file
 
 ### **-i, --ip**
 
-Tries to resolve all the adresses and get their ip's
+Tries to resolve all the addresses and get their ip's
 
 ### **-f ```<```filter```>```, --filter ```<```filter**```>```
 
