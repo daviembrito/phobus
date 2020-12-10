@@ -68,11 +68,11 @@ Custom filter to href's
 ## **Examples**
 <p></p>
 
-![Default example](https://media.discordapp.net/attachments/352864897979121664/779902583736107039/default.PNG?width=797&height=172)
+![Default example](https://cdn.discordapp.com/attachments/711704296692908142/779910060327436298/default1.png)
 
-![Ip's](https://cdn.discordapp.com/attachments/352864897979121664/779902793875324938/allips.PNG)
+![Ip's](https://cdn.discordapp.com/attachments/711704296692908142/779910078492966972/allips1.png)
 
-![Custom filter](https://cdn.discordapp.com/attachments/352864897979121664/779902810467860480/customfilter.PNG)
+![Custom filter](https://cdn.discordapp.com/attachments/711704296692908142/779910099786399774/customfilter1.png)
 
-![All flags](https://cdn.discordapp.com/attachments/352864897979121664/779902824594276352/every.PNG)
+![All flags](https://cdn.discordapp.com/attachments/711704296692908142/779910117029576704/every1.png)
 
