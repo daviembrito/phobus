@@ -2,7 +2,7 @@
 Python command line program for parsing HTML href's by url
 
 ## **Installation**
-git clone https://github.com/DearFuture1/phobus.git
+git clone https://github.com/daviembrito/phobus.git
 
 ## **Usage**
 ```python3 phobus.py [-h] [-a] [-o OUTPUT] [-i] [-f FILTER] url```
