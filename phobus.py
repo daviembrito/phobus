@@ -1,6 +1,6 @@
 '''
 Phobus HTML Parsing
-Coded by: DearFuture
+Coded by: daviembrito
 Version: 0.1
 Github: https://github.com/DearFuture1
 '''
