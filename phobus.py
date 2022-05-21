@@ -2,7 +2,7 @@
 Phobus HTML Parsing
 Coded by: daviembrito
 Version: 0.1
-Github: https://github.com/DearFuture1
+Github: https://github.com/daviembrito
 '''
 
 import argparse
